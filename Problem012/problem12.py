@@ -10,8 +10,6 @@ def main():
 		n += iter
 	print(n)
 
-
-
 def nbOfDivisors(number):
 	nb = 1 #(itself)
 	if(number % 2 != 0): #Logically, an even number must be the right one
